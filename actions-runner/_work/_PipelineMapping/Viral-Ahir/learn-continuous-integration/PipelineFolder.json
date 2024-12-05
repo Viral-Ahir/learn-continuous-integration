@@ -1,0 +1,12 @@
+﻿{
+  "repositoryName": "Viral-Ahir/learn-continuous-integration",
+  "pipelineDirectory": "learn-continuous-integration",
+  "workspaceDirectory": "learn-continuous-integration\\learn-continuous-integration",
+  "repositories": {
+    "Viral-Ahir/learn-continuous-integration": {
+      "repositoryPath": "learn-continuous-integration\\learn-continuous-integration",
+      "lastRunOn": "12/04/2024 23:24:53 -05:00"
+    }
+  },
+  "lastRunOn": "12/04/2024 23:43:11 -05:00"
+}
