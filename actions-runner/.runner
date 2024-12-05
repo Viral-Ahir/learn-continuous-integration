@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 2,
+  "agentName": "LAPTOP-91DVRMU1",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus4.actions.githubusercontent.com/4ODOOpcOslQPO61oBdhsF8NuMLxjjzQq4TlxVAfDrUNpxGkTYJ/",
+  "gitHubUrl": "https://github.com/Viral-Ahir/learn-continuous-integration",
+  "workFolder": "_work"
+}
