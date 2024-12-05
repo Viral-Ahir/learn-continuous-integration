@@ -29,7 +29,7 @@ db.on("connected", () => {
 // cors policy that allows requests from all origins.
 // This is insecure and should be changed in production
 // to set trusted hosts
-// add comment 1
+// add comment 2
 app.use(cors());
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(express.json());
